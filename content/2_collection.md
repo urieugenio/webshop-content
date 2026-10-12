@@ -4,4 +4,14 @@ I design and create my own collection of luxury beanies and scarves. All pieces 
 
 I want to create pieces you wouldn't find in stores. Something truly unique. A unique design, a unique feel, a unique fit and most of all a unique colour. Colour is at the heart of the collection. I don't follow the colours of the season. You'll find soft understated tones next to colours that make a bold statement. Pick a piece that stands on its own, or one that completes your outfit. Many customers consider my pieces ‘nothing less than works of art'.  
 
- ## Click and buy
+## Click and buy
+
+Use the filters to find the piece that suits you.
+
+- **Model**: the classic, slightly slouchy beanie, or the beanie with a foldable brim.
+- **Thickness**: from fine and lightweight to medium and thick.
+- **Size**: measured as head circumference: 49–55 cm, 52–58 cm or 55–61 cm.
+- **Colour**: pick a single colour, or choose multicolour for yarns that carry several colours in one strand and my own blends.
+- **Price**: every piece is handmade, and the price follows the yarn and the time it takes to make.
+
+Can't find exactly what you're looking for? Special requests are possible: a different size, a colour you have in mind, or your favourite model in another thickness. Send me an email at [uri@uri.eu](mailto:uri@uri.eu) and we'll see what we can create together.
