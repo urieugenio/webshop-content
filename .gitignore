@@ -16,3 +16,9 @@ cities15000.txt
 
 # written for a moment by the backoffice while saving collection.json
 *.tmp
+
+# secrets never belong here (this repository is public)
+.env
+.env.*
+*.pem
+*.key
