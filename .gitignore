@@ -1,0 +1,18 @@
+# Version the texts and data of the site; the pictures are backed up elsewhere (raw files in Lightroom are the master).
+splash/
+gallery/
+collection/
+*.jpg
+*.jpeg
+*.JPG
+*.JPEG
+*.png
+*.PNG
+*.psd
+*.webp
+
+# the GeoNames download that code\backoffice\cities.txt is made from (8.5 MB, can be downloaded again)
+cities15000.txt
+
+# written for a moment by the backoffice while saving collection.json
+*.tmp

@@ -1,0 +1,33 @@
+# Product attributes for the backoffice.
+# Every [section] is one attribute: a dropdown in the backoffice, a line in the detail pane of the site.
+# One value per line; the value with * in front is the default for new products.
+# Lines starting with # are ignored.
+
+[price]
+*95
+115
+135
+185
+
+
+[size]
+# head circumference, min-max.
+49-55 cm
+*52-58 cm
+55-61 cm
+
+
+[material]
+*hand-dyed merino wool
+hand-dyed lamb's wool
+
+
+[model]
+*classic beanie
+foldable beanie
+
+[thickness]
+fine
+*medium
+thick
+chunky

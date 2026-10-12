@@ -1,0 +1,9 @@
+#file::price::material::description
+*::180::single strand beanie made with fine hand-dyed merino wool. 
+1606-1616::180::foldable double strand beanie made with hand-dyed merino wool. 
+
+
+1. size ranges are yet to be deinfed and should live in some config file, together with other enums. probably a single file is better than creating a new file for each attribute
+2. material and description will drop, we're later going to build the descriptions from the attributes
+3. old links do not have to be supported
+4. yes, build button would be preferred
