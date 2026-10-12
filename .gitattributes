@@ -1,0 +1,2 @@
+# Keep LF line endings (as the backoffice writes them), so files never show as changed because of line endings
+* text=auto eol=lf
