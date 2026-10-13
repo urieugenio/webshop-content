@@ -28,6 +28,8 @@ Can't find exactly what you're looking for? Special requests are possible: a dif
 
 A scarf that keeps you warm without excess material: a clean design, just like my beanies.
 
+![Uri Eugenio draped in multiple scarves](0E2A5456.jpg)
+
 {{scarves}}
 
 # My story
@@ -56,7 +58,7 @@ Over time, the beanies and scarves have also become a way to support my work in 
 
 The process of making a beanie always begins with the model I want to create. Over the years, I have developed several designs: the classic, slightly slouchy beanie; a beanie with a foldable brim; and variations in different weights, ranging from very fine and lightweight to medium-weight and thick, robust, chunky styles.
 
-Once I've chosen the designs, I visit the yarn shop. I am a regular at [Stephen & Penelope](https://stephenandpenelope.com), a boutique yarn shop in Amsterdam. They focus strongly on high-quality hand-dyed yarns from brands such as Twisted Ambitions, Qing Fibre and West Wool. That's where I go to discover new yarns and choose my colours. I can spend hours there until I find exactly the right colour or combination. Sometimes I choose a solid colour or a yarn that carry several colours in one strand. Other times I put together my own combinations that allows me to create my own colour blend, thickness, ombré or marbled effect. 
+Once I've chosen the designs, I visit the yarn shop. I'm a regular at [Stephen & Penelope](https://stephenandpenelope.com), a boutique yarn shop in Amsterdam. They focus strongly on high-quality hand-dyed yarns from brands such as Twisted Ambitions Yarn, LITLG, Qing Fibre and West Wool. That's where I go to discover new yarns and choose my colours. I can spend hours there until I find exactly the right colour or combination. Sometimes I choose a solid colour or a yarn that carry several colours in one strand. Other times I put together my own combinations that allows me to create my own colour blend, thickness, ombré or marbled effect. 
 
 After choosing and purchasing my yarn, I take it home and begin winding it. Then I start to crochet. When the piece is finished, I weave in the loose ends and sew on my label. Every beanie passes through these steps by hand, and I design and make everything myself.
 
@@ -85,6 +87,6 @@ Pieces sold at the market are one of a kind too. Come early for the best choice.
 
 I'd love to hear from you. For questions, send me an email at [uri@uri.eu](mailto:uri@uri.eu). Crochet is only half of my story. To see my work as a dancer, teacher and choreographer, with dance videos and many more pictures, visit my dance website at [uri.eu](https://uri.eu).
 
-![Uri Eugenio dancing: dancer, teacher, choreographer](Uri_Eugenio_contact.png)
+![Uri Eugenio main website: dancer, teacher, choreographer](Uri_Eugenio_contact.png)
 
 For market updates and a peek behind the scenes, or if you just want to say hello, follow me on Instagram: [@urieugenio](https://www.instagram.com/urieugenio/).
