@@ -1,4 +1,4 @@
-<!--
+ <!--
   The 8-page booklet in the box with the beanie: one A4 sheet, printed on both sides, folded twice, cut and stapled.
   Made by "node story-booklet.mjs" in D:\Webshop\code (see the README there).
 
@@ -29,7 +29,7 @@ Handmade in Amsterdam
 
 …on your new beanie, and thank you for choosing a piece by Uri Eugenio.
 
-What you are holding is one of a kind. I made it by hand, stitch by stitch, from yarn I chose myself. There is no other beanie exactly like it: not the same colour, not the same yarn, not the same hours of work. It is entirely *Uriginal*.
+What you are holding is one of a kind. I made it by hand, stitch by stitch, with high quality wool. There is no other beanie like it. It is entirely *Uriginal*.
 
 It is made from merino wool: a luxurious yarn with finer, softer fibres than ordinary wool, so it feels light and comfortable against your skin and slips on easily. With a little care it will stay beautiful for many winters.
 
@@ -71,7 +71,7 @@ Over time, the beanies and scarves have also become a way to support my work in 
 
 ## From yarn to beanie
 
-The process of making a beanie always begins with the model I want to create. Over the years, I have developed several designs: the classic, slightly slouchy beanie; a beanie with a foldable brim; and variations in different weights, ranging from very fine and lightweight to medium-weight and thick, robust, chunky styles.
+The process of making a beanie always begins with the model I want to create. Over the years, I have developed several designs: the classic, slightly slouchy beanie; a beanie with a foldable brim; and variations in different weights, ranging from fine and lightweight to medium-weight and thick, robust, chunky styles.
 
 Once I've chosen the designs, I visit the yarn shop. I'm a regular at Stephen & Penelope, a boutique yarn shop in Amsterdam. They focus strongly on high-quality hand-dyed yarns from brands such as Twisted Ambitions Yarn, LITLG, Qing Fibre and West Wool. That's where I go to discover new yarns and choose my colours. I can spend hours there until I find exactly the right colour or combination. Sometimes I choose a solid colour or a yarn that carries several colours in one strand. Other times I put together my own combinations, which allows me to create my own colour blend, thickness, ombré or marbled effect.
 
@@ -79,7 +79,7 @@ After choosing and purchasing my yarn, I take it home and begin winding it. Then
 
 ---
 
-# Care
+# Good to know
 
 ## Washing
 
@@ -95,29 +95,29 @@ Would you like another piece in a different size, a colour you have in mind, or 
 
 ## Meet me
 
-The best way to experience the collection is in person. You can find me at The Maker Market in De Hallen, Amsterdam, always crocheting, so you can watch a new piece come to life.
+The best way to experience the collection is in person. You can find me a couple of weekends a year at The Maker Market in De Hallen, Amsterdam, always crocheting, so you can watch a new piece come to life. Check the uri.fashion website for the dates.
 
 ---
 
 # Stay in touch
 
-I'd love to hear from you, and to see you wearing your beanie.
+I would love to see you wearing your beanie. If you post a picture of yourself on Instagram wearing it, please tag me and add #uriginal:
+
+**@urieugenio**
+
+**#uriginal**
 
 ## Shop
 
-uri.fashion
+**uri.fashion**
 
 ## Email
 
 uri@uri.eu
 
-## Instagram
-
-@urieugenio
-
 ## Dance
 
-uri.eu: my work as a dancer, teacher and choreographer, with dance videos and many more pictures.
+Visit **uri.eu** to see my work as a dancer, teacher and choreographer, with dance videos and many more pictures.
 
 {{space}}
 
