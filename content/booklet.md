@@ -10,7 +10,7 @@
     {{photo FILE}}   a picture from gallery or content\images, converted for a black-and-white laser printer;
                      the text after it on the same line is the caption
     {{fullpage FILE}} a picture already made for the page (A6, grey), as large as the printer allows, unchanged;
-                     nothing else on that page
+                     nothing else on that page. Text after it is a caption at the foot (the picture moves up)
     {{script TEXT}}  one line in the script font (a signature, a thank you)
     {{space}}        pushes everything after it to the bottom of the page
   A page with too much text is reported by the script, with how many millimetres too long it is.
@@ -65,7 +65,7 @@ Over time, the beanies and scarves have also become a way to support my work in 
 
 ---
 
-{{fullpage beanies_A6_600dpi_grayscale2.jpg}}
+{{fullpage beanies_A6_600dpi_grayscale2.jpg}} Yarn and dance: two halves of one story.
 
 ---
 
