@@ -9,8 +9,8 @@
     {{logo}}         the Uri Eugenio logo        {{tagline}}  "exclusive handmade crochet" under it
     {{photo FILE}}   a picture from gallery or content\images, converted for a black-and-white laser printer;
                      the text after it on the same line is the caption
-    {{fullpage FILE}} a picture already made for the page (A6, grey), as large as the printer allows, unchanged;
-                     nothing else on that page. Text after it is a caption at the foot (the picture moves up)
+    {{fullpage FILE}} a picture already made for print (grey), used unchanged, as large as fits in the type area;
+                     the text after it on the same line is the caption
     {{script TEXT}}  one line in the script font (a signature, a thank you)
     {{space}}        pushes everything after it to the bottom of the page
   A page with too much text is reported by the script, with how many millimetres too long it is.
@@ -29,7 +29,7 @@ Handmade in Amsterdam
 
 …on your new beanie, and thank you for choosing a piece by Uri Eugenio.
 
-What you are holding is one of a kind. I made it by hand, stitch by stitch, with high quality wool. There is no other beanie like it. It is entirely *Uriginal*.
+What you are holding is one of a kind. I made it by hand, stitch by stitch, with high quality wool. There is no other beanie like it. It is entirely **Uriginal**.
 
 It is made from merino wool: a luxurious yarn with finer, softer fibres than ordinary wool, so it feels light and comfortable against your skin and slips on easily. With a little care it will stay beautiful for many winters.
 
@@ -101,11 +101,11 @@ The best way to experience the collection is in person. You can find me a couple
 
 # Stay in touch
 
-I would love to see you wearing your beanie. If you post a picture of yourself on Instagram wearing it, please tag me and add #uriginal:
+I would love to see you wearing your beanie. If you post a picture of yourself on Instagram wearing it, please tag me and add #Uriginal:
+
+## Instagram
 
 @urieugenio
-
-#uriginal
 
 ## Shop
 
