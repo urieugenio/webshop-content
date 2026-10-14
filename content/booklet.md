@@ -103,9 +103,9 @@ The best way to experience the collection is in person. You can find me a couple
 
 I would love to see you wearing your beanie. If you post a picture of yourself on Instagram wearing it, please tag me and add #uriginal:
 
-**@urieugenio**
+@urieugenio
 
-**#uriginal**
+#uriginal
 
 ## Shop
 
