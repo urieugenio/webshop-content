@@ -26,9 +26,11 @@ Can't find exactly what you're looking for? Special requests are possible: a dif
 
 # Scarves
 
-A scarf that keeps you warm without excess material: a clean design, just like my beanies.
-
 ![Uri Eugenio draped in multiple scarves](0E2A5456.jpg)
+
+A scarf with a clean design that keeps you warm. See my [gallery](#gallery) for styling ideas.
+
+Pick a single colour in the color selector below, or choose multicolour for yarns that carry several colours in one strand and my own blends. All models are about the same size: 167cm long, 7cm wide, and 1.5cm thick.
 
 {{scarves}}
 

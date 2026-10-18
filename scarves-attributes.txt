@@ -1,0 +1,27 @@
+# Product attributes of the scarves, for the backoffice (the beanies have their own: beanies-attributes.txt).
+# Every [section] is one attribute: a dropdown in the backoffice, a line in the detail pane of the site.
+# One value per line; the value with * in front is the default for new products.
+# Lines starting with # are ignored.
+
+[price]
+*190
+
+
+[model]
+*classic scarf
+
+
+[material]
+*merino wool
+
+
+[thickness]
+*chunky
+
+
+[length]
+*167 cm
+
+
+[width]
+*7 cm

@@ -1,7 +1,13 @@
 # Version the texts and data of the site; the pictures are backed up elsewhere (raw files in Lightroom are the master).
 splash/
 gallery/
-collection/
+beanies/
+beanies-print/
+scarves/
+scarves-print/
+# design files (InDesign, PDFs, fonts, raw photos) for the display and the box poster
+display/
+poster/
 *.jpg
 *.jpeg
 *.JPG
@@ -14,7 +20,7 @@ collection/
 # the GeoNames download that code\backoffice\cities.txt is made from (8.5 MB, can be downloaded again)
 cities15000.txt
 
-# written for a moment by the backoffice while saving collection.json
+# written for a moment by the backoffice while saving beanies.json / scarves.json
 *.tmp
 
 # secrets never belong here (this repository is public)

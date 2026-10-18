@@ -1,0 +1,17 @@
+[
+  {"file":"DSC01665.jpg","name":"Timoteo","price":190,"model":"classic scarf","material":"merino wool","thickness":"chunky","length":"167 cm","width":"7 cm","color":"green","multi":false,"hex":"#02612e"},
+  {"file":"DSC01666.jpg","name":"Veendam","price":190,"model":"classic scarf","material":"merino wool","thickness":"chunky","length":"167 cm","width":"7 cm","color":"red","multi":false,"hex":"#62051f"},
+  {"file":"DSC01671.jpg","name":"Lautoka","price":190,"model":"classic scarf","material":"merino wool","thickness":"chunky","length":"167 cm","width":"7 cm","color":"yellow","multi":true,"hex":"#e4d13a","colorByHand":true},
+  {"file":"DSC01672.jpg","name":"Itamaraju","price":190,"model":"classic scarf","material":"merino wool","thickness":"chunky","length":"167 cm","width":"7 cm","color":"grey","multi":false,"hex":"#7f5d6a"},
+  {"file":"DSC01673.jpg","name":"Otwock","price":190,"model":"classic scarf","material":"merino wool","thickness":"chunky","length":"167 cm","width":"7 cm","color":"green","multi":false,"hex":"#04292f","colorByHand":true},
+  {"file":"DSC01674.jpg","name":"Denison","price":190,"model":"classic scarf","material":"merino wool","thickness":"chunky","length":"167 cm","width":"7 cm","color":"green","multi":false,"hex":"#bedc69"},
+  {"file":"DSC01676.jpg","name":"Abadan","price":190,"model":"classic scarf","material":"merino wool","thickness":"chunky","length":"167 cm","width":"7 cm","color":"purple","multi":true,"hex":"#593a4d","colorByHand":true},
+  {"file":"DSC01677.jpg","name":"Tongaat","price":190,"model":"classic scarf","material":"merino wool","thickness":"chunky","length":"167 cm","width":"7 cm","color":"yellow","multi":false,"hex":"#ede925"},
+  {"file":"DSC01678.jpg","name":"Ripley","price":190,"model":"classic scarf","material":"merino wool","thickness":"chunky","length":"167 cm","width":"7 cm","color":"purple","multi":false,"hex":"#2d1323","colorByHand":true},
+  {"file":"DSC01679.jpg","name":"Garland","price":190,"model":"classic scarf","material":"merino wool","thickness":"chunky","length":"167 cm","width":"7 cm","color":null,"multi":true,"hex":"#22242e"},
+  {"file":"DSC01680.jpg","name":"Afragola","price":190,"model":"classic scarf","material":"merino wool","thickness":"chunky","length":"167 cm","width":"7 cm","color":null,"multi":true,"hex":"#512e2e"},
+  {"file":"DSC01681.jpg","name":"Perbaungan","price":190,"model":"classic scarf","material":"merino wool","thickness":"chunky","length":"167 cm","width":"7 cm","color":null,"multi":true,"hex":"#68635d","colorByHand":true},
+  {"file":"DSC01682.jpg","name":"Constitucion","price":190,"model":"classic scarf","material":"merino wool","thickness":"chunky","length":"167 cm","width":"7 cm","color":null,"multi":true,"hex":"#716467"},
+  {"file":"DSC01683.jpg","name":"Boscoreale","price":190,"model":"classic scarf","material":"merino wool","thickness":"chunky","length":"167 cm","width":"7 cm","color":"blue","multi":true,"hex":"#263f67"},
+  {"file":"DSC01686.jpg","name":"Temixco","price":190,"model":"classic scarf","material":"merino wool","thickness":"chunky","length":"167 cm","width":"7 cm","color":null,"multi":true,"hex":"#2e485d"}
+]
